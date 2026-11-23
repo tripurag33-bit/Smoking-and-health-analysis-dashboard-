@@ -1,6 +1,23 @@
 # Smoking-and-health-analysis-dashboard
 The smoking and health analysis clinical biomarkers across a cohort of 10,000 patients.interactive data exploration in Microsoft Power BI, the solution transforms raw patient-level records into dynamic KPIs, DAX-calculated risk segments, and multi-dimensional visual analytics without making diagnostic or causal medical claims.
-#### Project Overview:Smoking and Health Analysis Dashboard
+
+**Objective **1: Analyze Overall Patient Health Using KPIs
+1. Calculate the total number of patients.
+2. Calculate the total number of current smokers.
+3. Calculate the total number of patients with a recorded organ category.
+4. Calculate the total number of patients with a recorded health condition.
+Objective 2: Create Calculated Columns Using DAX
+1. Age Group: Create age categories to group patients into different age ranges, such as 18–29, 30–44, 45–59, and 60+.
+2. BP Risk Category: Create categories based on systolic and diastolic blood pressure readings, such as Lower Range, Elevated, and High.
+Objective 3: Analyze Smoking Patterns and Health Indicators
+1. Analyze average cigarettes consumed per day by smoking status.
+2. Analyze organ-wise health condition distribution.
+3. Analyze smoking status distribution among patients.
+4. Compare average cholesterol levels across blood pressure risk categories.
+Objective 4: Analyze Patient Demographics and Health Patterns
+1. Analyze the number of current smokers across different age groups.
+2. Analyze the distribution of recorded health conditions across different levels of estimated smoking exposure.
+
 **Project Description**
 The **Smoking and Health Analysis Dashboard** is an exploratory healthcare analytics project developed for **Sapphire IQ** to examine patient smoking behaviors, organ-level health conditions, demographic trends, and clinical biomarkers across a cohort of **10,000 patients**. Designed for management-level reporting and interactive data exploration in **Microsoft Power BI**, the solution transforms raw patient-level records into dynamic KPIs, DAX-calculated risk segments, and multi-dimensional visual analytics without making diagnostic or causal medical claims.
 ### Core Analytical Objectives & Deliverables
